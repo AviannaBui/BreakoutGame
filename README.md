@@ -1,7 +1,7 @@
 # Breakout Game
 ###### Author: Avianna Bui
 
-![Screenshot of Breakout Game](breakoutpic.png)
+![Screenshot of Breakout Game](res/breakoutpic.png)
 
 ## Game Description
 This program recreates the classic Breakout arcade, initially developed in 1976 by Steve Wozniak, in which players aim to clear rows of bricks by hitting them with a bouncing ball using a paddle. 
