@@ -1,6 +1,8 @@
 # Breakout Game
 ###### Author: Avianna Bui
 
+![Screenshot of Breakout Game](breakoutpic.png)
+
 ## Game Description
 This program recreates the classic Breakout arcade, initially developed in 1976 by Steve Wozniak, in which players aim to clear rows of bricks by hitting them with a bouncing ball using a paddle. 
 The code requires users to install Java 17 in order to use kilt-graphics, a graphic library developed by the Mathematics, Statistics, and Computer Science (MSCS) department in Macalester College: https://mac-comp127.github.io/kilt-graphics/index.html. The game was coded as a class assignment for the Object-Oriented Programming and Abstraction course created by Macalester's MSCS department, under the guidance of Paul Cantrell, my course instructor, and the preceptors for the class. 
