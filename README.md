@@ -7,6 +7,7 @@ The code requires users to install Java 17 in order to use kilt-graphics, a grap
 
 ## Game Instructions
 The objective of the game is to remove the bricks from the screen by hitting them with a ball. To do so, players would slide their keyboard’s mouse left and right to control the direction of the paddle. When the ball hits the surface of the paddle or the wall, it would bounce back and strike down the bricks. The player wins when all the bricks disappear from the screen. 
+
 The player loses a life when the paddle misses the ball. Failure to eliminate all the bricks before the players lose a total of 3 lives results in a loss. 
 
 ## Known Issues 
